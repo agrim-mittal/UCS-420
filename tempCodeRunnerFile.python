@@ -1,0 +1,7 @@
+c = int(input())
+d = int(input())
+
+if c > d:
+    print("c is greater than d")
+else:
+    print("d is greater than c")
